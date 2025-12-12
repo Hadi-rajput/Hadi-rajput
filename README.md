@@ -1,83 +1,58 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Abdul Hadi - Portfolio</title>
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" />
-    <style>
-        body {
-            background: #f8f9fa;
-            font-family: Arial, sans-serif;
-        }
-        .hero {
-            padding: 80px 0;
-            text-align: center;
-            background: white;
-        }
-        .hero h1 {
-            font-size: 3rem;
-            font-weight: 700;
-        }
-        .section-title {
-            font-size: 2rem;
-            font-weight: 600;
-            margin-bottom: 30px;
-            text-align: center;
-        }
-        .skills-list span {
-            display: inline-block;
-            background: #fff;
-            padding: 10px 15px;
-            margin: 5px;
-            border-radius: 8px;
-            border: 1px solid #ddd;
-            font-weight: 500;
-        }
-        .about {
-            background: white;
-            padding: 60px;
-            border-radius: 15px;
-        }
-    </style>
-</head>
-<body>
+<div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial; color:#222; line-height:1.6; max-width:860px;">
 
-    <section class="hero">
-        <h1>Abdul Hadi</h1>
-        <p class="lead">Web Developer | Frontend & Backend</p>
-    </section>
+<h1 style="margin:0 0 8px 0; font-size:34px;">Hi there 👋</h1>
 
-    <div class="container my-5">
-        <section class="about shadow-sm">
-            <h2 class="section-title">About Me</h2>
-            <p>
-                I am a dedicated Web Developer skilled in frontend and backend technologies.
-                I specialize in building responsive, fast, and user-friendly web applications.
-                I focus on clean architecture, modern styling, and optimized performance.
-            </p>
-        </section>
-    </div>
+<p style="margin:0 0 18px 0; font-size:16px; color:#444;">
+<strong>I'm Abdul Hadi</strong>, a web developer based in Pakistan. I love creating websites that are simple, responsive, and easy to use. Turning ideas into real projects — from portfolios to e-commerce stores — is what I enjoy the most. My favorite project so far is my <strong>Lab Automation System</strong>.
+</p>
 
-    <div class="container my-5">
-        <section>
-            <h2 class="section-title">Skills</h2>
-            <div class="skills-list text-center">
-                <span>CSS3</span>
-                <span>JavaScript</span>
-                <span>Bootstrap</span>
-                <span>jQuery</span>
-                <span>Git</span>
-                <span>GitHub</span>
-                <span>Responsive Design</span>
-                <span>SEO</span>
-                <span>MySQL</span>
-                <span>PHP</span>
-                <span>Laravel</span>
-                <span>TypeScript</span>
-            </div>
-        </section>
-    </div>
+<hr style="border:0; height:1px; background:#eee; margin:18px 0;" />
 
-</body>
-</html>
+<section style="background:#fff; padding:18px; border-radius:10px; border:1px solid #f0f0f0;">
+  <h2 style="margin:0 0 10px 0; font-size:20px;">About Me</h2>
+  <ul style="margin:0 0 8px 18px; color:#444;">
+    <li>✨ Creating web projects since <strong>2023</strong></li>
+    <li>📚 Currently learning <strong>Core PHP, MySQL & Laravel</strong></li>
+    <li>🎯 Goal: Become a backend-focused full-stack developer</li>
+    <li>🎲 Fun fact: I learn something new with every project I build</li>
+  </ul>
+</section>
+
+
+<section style="margin-top:14px; padding:18px; background:#fff; border-radius:10px; border:1px solid #f0f0f0;">
+  <h2 style="margin:0 0 12px 0; font-size:20px;">My Skills</h2>
+
+  <p style="margin:0 0 12px 0; color:#333; font-weight:600;">• CSS3 • JavaScript • Bootstrap • jQuery • Git • GitHub • Responsive Design • SEO • MySQL • PHP • Laravel • TypeScript</p>
+
+  <!-- CSS-only badges: styled spans -->
+  <div style="display:flex; flex-wrap:wrap; gap:8px; margin-top:8px;">
+    <span style="padding:8px 10px; border-radius:8px; background:linear-gradient(180deg, #ffffff, #fbfbfb); border:1px solid #e6e6e6; font-size:13px;">CSS3</span>
+    <span style="padding:8px 10px; border-radius:8px; background:linear-gradient(180deg, #ffffff, #fbfbfb); border:1px solid #e6e6e6; font-size:13px;">JavaScript</span>
+    <span style="padding:8px 10px; border-radius:8px; background:linear-gradient(180deg, #ffffff, #fbfbfb); border:1px solid #e6e6e6; font-size:13px;">Bootstrap</span>
+    <span style="padding:8px 10px; border-radius:8px; background:linear-gradient(180deg, #ffffff, #fbfbfb); border:1px solid #e6e6e6; font-size:13px;">jQuery</span>
+    <span style="padding:8px 10px; border-radius:8px; background:linear-gradient(180deg, #ffffff, #fbfbfb); border:1px solid #e6e6e6; font-size:13px;">Git</span>
+    <span style="padding:8px 10px; border-radius:8px; background:linear-gradient(180deg, #ffffff, #fbfbfb); border:1px solid #e6e6e6; font-size:13px;">GitHub</span>
+    <span style="padding:8px 10px; border-radius:8px; background:linear-gradient(180deg, #ffffff, #fbfbfb); border:1px solid #e6e6e6; font-size:13px;">Responsive Design</span>
+    <span style="padding:8px 10px; border-radius:8px; background:linear-gradient(180deg, #ffffff, #fbfbfb); border:1px solid #e6e6e6; font-size:13px;">SEO</span>
+    <span style="padding:8px 10px; border-radius:8px; background:linear-gradient(180deg, #ffffff, #fbfbfb); border:1px solid #e6e6e6; font-size:13px;">MySQL</span>
+    <span style="padding:8px 10px; border-radius:8px; background:linear-gradient(180deg, #ffffff, #fbfbfb); border:1px solid #e6e6e6; font-size:13px;">PHP</span>
+    <span style="padding:8px 10px; border-radius:8px; background:linear-gradient(180deg, #ffffff, #fbfbfb); border:1px solid #e6e6e6; font-size:13px;">Laravel</span>
+    <span style="padding:8px 10px; border-radius:8px; background:linear-gradient(180deg, #ffffff, #fbfbfb); border:1px solid #e6e6e6; font-size:13px;">TypeScript</span>
+  </div>
+</section>
+
+<section style="margin-top:14px; padding:18px; background:#fff; border-radius:10px; border:1px solid #f0f0f0;">
+  <h2 style="margin:0 0 10px 0; font-size:20px;">Featured Project</h2>
+  <p style="margin:0; color:#444;"><strong>Lab Automation System</strong> — My favorite project. Built with clean UI patterns and practical backend features.</p>
+</section>
+
+<section style="margin-top:14px; padding:18px; display:flex; justify-content:space-between; align-items:center; background:#fff; border-radius:10px; border:1px solid #f0f0f0;">
+  <div>
+    <h3 style="margin:0 0 6px 0; font-size:16px;">Contact</h3>
+    <p style="margin:0; color:#444; font-size:14px;">📧 <a href="mailto:hadi88689@gmail.com" style="color:#2b6cb0; text-decoration:none;">hadi88689@gmail.com</a><br/>📞 +92 314 0733579</p>
+  </div>
+
+  <div style="text-align:right; color:#888; font-size:13px;">Built with ❤️ · Last updated: <strong>Dec 13, 2025</strong></div>
+</section>
+
+</div>
