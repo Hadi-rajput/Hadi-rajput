@@ -46,7 +46,6 @@
     <h3 style="margin:0 0 6px 0; font-size:16px;">Contact</h3>
     <p style="margin:0; color:#444; font-size:14px;">📧 <a href="mailto:hadi88689@gmail.com" style="color:#1a73e8; text-decoration:none;">hadi88689@gmail.com</a><br/>📞 +92 314 0733579</p>
   </div>
-  <div style="color:#888; font-size:13px;">Built with ❤️ · Last updated: <strong>Dec 13, 2025</strong></div>
 </section>
 
 </div>
