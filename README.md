@@ -1,72 +1,83 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Abdul Hadi - Portfolio</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" />
+    <style>
+        body {
+            background: #f8f9fa;
+            font-family: Arial, sans-serif;
+        }
+        .hero {
+            padding: 80px 0;
+            text-align: center;
+            background: white;
+        }
+        .hero h1 {
+            font-size: 3rem;
+            font-weight: 700;
+        }
+        .section-title {
+            font-size: 2rem;
+            font-weight: 600;
+            margin-bottom: 30px;
+            text-align: center;
+        }
+        .skills-list span {
+            display: inline-block;
+            background: #fff;
+            padding: 10px 15px;
+            margin: 5px;
+            border-radius: 8px;
+            border: 1px solid #ddd;
+            font-weight: 500;
+        }
+        .about {
+            background: white;
+            padding: 60px;
+            border-radius: 15px;
+        }
+    </style>
+</head>
+<body>
 
-<p align="left">I’m Abdul Hadi, a Web Developer from Pakistan.</p>
+    <section class="hero">
+        <h1>Abdul Hadi</h1>
+        <p class="lead">Web Developer | Frontend & Backend</p>
+    </section>
 
-###
+    <div class="container my-5">
+        <section class="about shadow-sm">
+            <h2 class="section-title">About Me</h2>
+            <p>
+                I am a dedicated Web Developer skilled in frontend and backend technologies.
+                I specialize in building responsive, fast, and user-friendly web applications.
+                I focus on clean architecture, modern styling, and optimized performance.
+            </p>
+        </section>
+    </div>
 
-<h2 align="left">About Me</h2>
+    <div class="container my-5">
+        <section>
+            <h2 class="section-title">Skills</h2>
+            <div class="skills-list text-center">
+                <span>CSS3</span>
+                <span>JavaScript</span>
+                <span>Bootstrap</span>
+                <span>jQuery</span>
+                <span>Git</span>
+                <span>GitHub</span>
+                <span>Responsive Design</span>
+                <span>SEO</span>
+                <span>MySQL</span>
+                <span>PHP</span>
+                <span>Laravel</span>
+                <span>TypeScript</span>
+            </div>
+        </section>
+    </div>
 
-<p align="left">
-✨ Creating clean and responsive web experiences since 2023<br>
-📚 Currently learning: Core PHP, MySQL & Laravel<br>
-🎯 Goal: Become a backend-focused full-stack developer & build scalable apps<br>
-🎲 Fun fact: My favorite project is still my Lab Automation system!
-</p>
-
-###
-
-<h2 align="left">I Code With</h2>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40"/>
-</div>
-
-###
-
-<h2 align="left">Pinned Projects</h2>
-
-<p align="left">
-• 🔬 <strong>Lab Automation System</strong> – My favorite project<br>
-• 🛒 E-Commerce Store (HTML, CSS, JS)<br>
-• 🍔 Foodpanda Clone (Fully Responsive)<br>
-• 👤 Portfolio Website<br>
-• 🧮 Calculator (JS)
-</p>
-
-###
-
-<h2 align="left">Connect With Me</h2>
-
-<div align="left">
-  <a href="https://github.com/hadi88689">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30"/>
-  </a>
-  <img width="12"/>
-  <a href="https://www.linkedin.com/in/your-link">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30"/>
-  </a>
-</div>
-
-###
+</body>
+</html>
