@@ -12,7 +12,7 @@
   <h2 style="margin:0 0 12px 0; font-size:22px;">About Me</h2>
   <ul style="margin:0 0 0 18px; padding:0; color:#444;">
     <li>✨ Creating web projects since <strong>2023</strong></li>
-    <li>📚 Currently learning <strong>PHP, MySQL & Laravel</strong></li>
+    <li>📚 Currently learning <strong>Core PHP, MySQL & Laravel</strong></li>
     <li>🎯 Goal: Become a backend-focused full-stack developer</li>
     <li>🎲 Fun fact: I learn something new with every project I build</li>
   </ul>
@@ -20,22 +20,20 @@
 
 <section style="margin-top:18px; background:#fff; padding:20px; border-radius:12px; border:1px solid #e0e0e0;">
   <h2 style="margin:0 0 12px 0; font-size:22px;">My Skills</h2>
-
-  <!-- Modern CSS-only badges layout -->
-  <div style="display:flex; flex-wrap:wrap; gap:10px;">
-    <span style="padding:6px 12px; border-radius:12px; background:#e8f0fe; color:#1a73e8; font-weight:600; font-size:13px;">CSS3</span>
-    <span style="padding:6px 12px; border-radius:12px; background:#fce8e6; color:#d93025; font-weight:600; font-size:13px;">JavaScript</span>
-    <span style="padding:6px 12px; border-radius:12px; background:#e8f0fe; color:#1a73e8; font-weight:600; font-size:13px;">Bootstrap</span>
-    <span style="padding:6px 12px; border-radius:12px; background:#fff3e0; color:#fb8c00; font-weight:600; font-size:13px;">jQuery</span>
-    <span style="padding:6px 12px; border-radius:12px; background:#e8f0fe; color:#1a73e8; font-weight:600; font-size:13px;">Git</span>
-    <span style="padding:6px 12px; border-radius:12px; background:#f1f3f4; color:#202124; font-weight:600; font-size:13px;">GitHub</span>
-    <span style="padding:6px 12px; border-radius:12px; background:#e0f7fa; color:#00796b; font-weight:600; font-size:13px;">Responsive Design</span>
-    <span style="padding:6px 12px; border-radius:12px; background:#fff3e0; color:#fb8c00; font-weight:600; font-size:13px;">SEO</span>
-    <span style="padding:6px 12px; border-radius:12px; background:#e8f0fe; color:#1a73e8; font-weight:600; font-size:13px;">MySQL</span>
-    <span style="padding:6px 12px; border-radius:12px; background:#fce8e6; color:#d93025; font-weight:600; font-size:13px;">PHP</span>
-    <span style="padding:6px 12px; border-radius:12px; background:#e8f0fe; color:#1a73e8; font-weight:600; font-size:13px;">Laravel</span>
-    <span style="padding:6px 12px; border-radius:12px; background:#f1f3f4; color:#202124; font-weight:600; font-size:13px;">TypeScript</span>
-  </div>
+  <ul style="margin:0 0 0 18px; color:#444; list-style-type: disc; font-size:15px; line-height:1.8;">
+    <li>CSS3</li>
+    <li>JavaScript</li>
+    <li>Bootstrap</li>
+    <li>jQuery</li>
+    <li>Git</li>
+    <li>GitHub</li>
+    <li>Responsive Design</li>
+    <li>SEO</li>
+    <li>MySQL</li>
+    <li>PHP</li>
+    <li>Laravel</li>
+    <li>TypeScript</li>
+  </ul>
 </section>
 
 <section style="margin-top:18px; background:#fff; padding:20px; border-radius:12px; border:1px solid #e0e0e0;">
